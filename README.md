@@ -1,4 +1,4 @@
-# outlier_detection
+# Outlier Detection in Financial Data
 A data project to flag Outliers and anomalies in financial data using sklearn, Pandas and Numpy.
 
 Creating an algorithm that can find outliers in this data by one column / several columns. E.g. some members have extremely high costs in the current month and your solution should be able to detect such records. Think about features and how you would explain them to business people.
